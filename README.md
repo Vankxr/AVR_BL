@@ -1,4 +1,4 @@
-# AVR_BL
+# AVR Bootloader
 Simple AVR Bootloader
 
 Currently supports serial uploading at high speeds.
